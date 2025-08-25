@@ -1,3 +1,11 @@
+L'objectif de ce projet est d'utiliser les techniques de NLP et de Machine Learning pour analyser les biais politiques dans les médias écrits et développer des modèles de classification pour prédire les orientations politiques des articles.
+
+Technologies : NLP, Machine Learning, Python.
+
+Réalisations :
+- Développement de modèles de classification de texte pour prédire les orientations politiques des articles.
+- Analyse des données pour comprendre les schémas de biais.
+
 Ce repository est composé des différents notebooks permettant l'utilisation des modèles.
 Les notebooks sont commentés de façon à faciliter leur utilisation et leur compréhension.
 
